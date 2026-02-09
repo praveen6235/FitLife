@@ -64,4 +64,5 @@ FitLife acts as an informational and promotional platform for a fitness center. 
 ---
 
 ## 📂 Project Structure
+https://github.com/praveen6235/FitLife
 
