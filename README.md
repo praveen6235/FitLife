@@ -1,46 +1,67 @@
 # 🏋️ FitLife – Fitness Website
 
-FitLife is a modern and responsive fitness website designed to promote a healthy lifestyle through workout programs, professional trainers, and fitness products. The project features a clean dark-themed UI, smooth navigation, and client-side form validation.
+FitLife is a modern, responsive fitness website designed to encourage a healthy lifestyle through structured workout programs, professional trainers, and fitness products. This project demonstrates practical frontend development skills using HTML, CSS, JavaScript, and Bootstrap with a clean dark-themed UI.
 
 🔗 **Live Website:**  
 https://praveen6235.github.io/FitLife
 
 ---
 
-## 📌 Features
-- Home page with motivational hero section  
-- About section explaining mission and vision  
-- Workout programs (Strength, Cardio, Yoga, CrossFit, Weight Loss)  
-- Trainers section with expert coaches  
-- Fitness shop with gym accessories and supplements  
-- Registration form with JavaScript validation  
-- Fully responsive design using Bootstrap  
+## 📖 Project Overview
+
+FitLife acts as an informational and promotional platform for a fitness center. Users can explore workout programs, learn about trainers, browse fitness products, and register for membership plans. The website focuses on usability, responsiveness, and visual appeal.
 
 ---
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- Bootstrap 5  
-- JavaScript  
-- Font Awesome  
-- Google Fonts  
+## ✨ Key Features
+
+### 🏠 Home Page
+- Motivational hero section
+- Call-to-action button for user registration
+
+### ℹ️ About Page
+- Introduction to FitLife
+- Mission and vision of the fitness center
+
+### 🏋️ Workout Programs
+- Strength Training  
+- Cardio Training  
+- Yoga & Flexibility  
+- CrossFit  
+- Weight Loss Program  
+- Personal Training  
+
+### 👨‍🏫 Trainers Section
+- Profiles of professional trainers
+- Trainer specialization and experience details
+
+### 🛒 Fitness Shop
+- Display of gym accessories and supplements
+- Clean product card layout
+
+### 📝 Registration Form
+- User-friendly registration form
+- JavaScript-based client-side validation
+- Membership plan selection with price display
+
+### 📱 Responsive Design
+- Fully responsive across mobile, tablet, and desktop devices
+- Built using Bootstrap grid system
 
 ---
 
-## 🗂️ Project Files
-- index.html  
-- about.html  
-- workout.html  
-- trainer.html  
-- shoping.html  
-- register.html  
-- style.css  
+## 🛠️ Technologies & Tools Used
+
+| Technology | Purpose |
+|----------|---------|
+| HTML5 | Page structure |
+| CSS3 | Styling & animations |
+| Bootstrap 5 | Responsive layout |
+| JavaScript | Form validation & interactivity |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
 
 ---
 
-## 🔽 How to Clone and Run the Project
+## 📂 Project Structure
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/praveen6235/FitLife.git
